@@ -5,7 +5,8 @@
 
 class MallardDuck : public Duck {
 public:
-       void display();
+    MallardDuck();
+    void display();
 };
 
 #endif

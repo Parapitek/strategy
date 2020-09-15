@@ -2,6 +2,7 @@
 #define QUACK_H
 
 #include "quackbehavior.h"
+#include "quack.h"
 
 class Quack : public QuackBehavior
 {
