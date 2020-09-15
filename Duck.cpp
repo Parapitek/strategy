@@ -7,3 +7,7 @@ void Duck::quack() {
 void Duck::swim() {
      cout << "Bul' - bul'" << endl;
 }
+
+void Duck::fly() {
+     cout << "polet" << endl;
+}
