@@ -1,3 +1,6 @@
+#ifndef DUCK_H
+#define DUCK_H
+
 #include <iostream>
 using namespace std;
 
@@ -7,3 +10,5 @@ public:
        void swim();
        virtual void display() = 0;
 };
+
+#endif
